@@ -1,2 +1,2 @@
 # bot-series-1
-lets start work with  telagram  bot 
+lets start work with  telegram  bot 
